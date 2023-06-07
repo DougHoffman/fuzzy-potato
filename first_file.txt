@@ -2,3 +2,5 @@
 This is the first entry in my first file.
 
 There should be more to come.
+
+Ok.  Here is the next edit.  I finally got git bash to use notepad++ to open as the editor.  Now to figure out how to set up an alias.
